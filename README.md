@@ -37,7 +37,16 @@ Syntax highlighted code block
 readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
 
 
-### 교수님 면담
+
+### 1. 팀 소개 및 계획에 대한 발표
+#### 일시: 2024/09/24, 오후 3시
+#### 참석 인원: 5/5
+
+
+
+
+
+### 6. 교수님 면담
 #### 교수님 성함: 윤종영 교수님
 #### 일시: 2024/09/24, 오후 3시
 #### 참석 인원: 5/5
